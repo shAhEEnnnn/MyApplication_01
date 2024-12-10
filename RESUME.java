@@ -3,8 +3,8 @@ public class RESUME
   public static void main(String args[])
   {
      int age = 20;
-     String name = "Mayukh";
-     String dob = "02/03/2002";
+     String name = "haripriya";
+     String dob = "24/03/2002";
      System.out.println("My Personal Details");
      System.out.println("NAME = "+ name);
      System.out.println("DATE OF BIRTH ="+ dob);
