@@ -14,7 +14,7 @@ class PALINDROME
         {
             d=num1%10;
             rev=rev*10+d;
-            num1/=10;
+            num1/=50;
         }
         if(num==rev)
         System.out.println("PALINDROME NUMBER");
