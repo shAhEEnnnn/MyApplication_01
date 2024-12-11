@@ -4,7 +4,7 @@ class code1
     {
         int a = 69;
         int b = 20;
-        System.out.println("RESULT = " +a*b);
+        System.out.println("RESULT = " +(a-b));
         
     }
 }
