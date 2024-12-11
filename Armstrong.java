@@ -18,6 +18,8 @@ class Armstrong
         if(num==sum)
             System.out.println("ARMSTRONG NUMBER=");
         else
-         System.out.println("NOT A ARMSTRONG NUMBER");
+     
+       System.out.println("NOT A ARMSTRONG NUMBER");
+       mg.close();
     }
 }
