@@ -10,10 +10,10 @@ class Armstrong
         num1=num;
         while(num1>0)
         {
-            d=num1%100;
+            d=num1%10;
             c=d*d*d;
             sum=sum+c;
-            num1/=100;
+            num1/=10;
         }
         if(num==sum)
             System.out.println("ARMSTRONG NUMBER=");
